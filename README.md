@@ -6,4 +6,7 @@
 * In body section give the required elements like hour,minute,am/pm etc.
 * Create external CSS and add some styles to the HTML
 * Create a js file which contains the onclick functions and add some dropdown lists.
+##### From the above appraoch the page looks like below image :
 
+
+![alt text] (alarm ss.png)
