@@ -5,7 +5,7 @@ setAlarmBtn = document.querySelector("button");
 
 //Alaram tune linked...
 let alarmTime, isAlarmSet,
-ringtone = new Audio("./files/ringtone.mp3");
+ringtone = new Audio("Alarm Clock Ringing Free Sound Effect Ringtones.m4a");
 
 function options() {
     // option hour for alaram
