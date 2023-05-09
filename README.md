@@ -9,4 +9,4 @@
 ##### From the above appraoch the page looks like below image :
 
 
-![alt text] (alarm ss.png)
+![alt text](alarm ss.png)
